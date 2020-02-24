@@ -9,7 +9,7 @@ AEM task 1.
 3. Fix the component so on the "/content/aem-tasks/en.html" page it displays the following:
 ![alt text](https://raw.githubusercontent.com/kirill-frolov/aem-tasks/master/result.png)
     
-
+Server: 54.66.162.238
 
 ## Modules
 
